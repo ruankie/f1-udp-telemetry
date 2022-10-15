@@ -1,3 +1,6 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/ruankie/f1-udp-telemetry)
+![GitHub contributors](https://img.shields.io/github/contributors/ruankie/f1-udp-telemetry) 
+
 # Description
 🏎 Receive and log UDP telemetry data from the F1 2018 game
 
